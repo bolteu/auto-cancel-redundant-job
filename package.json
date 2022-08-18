@@ -34,7 +34,7 @@
     "update": "npx npm-check-updates -u && yarn install && yarn upgrade && yarn audit"
   },
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.9.1",
     "@actions/github": "^4.0.0",
     "@octokit/plugin-paginate-rest": "^2.4.0",
     "@octokit/plugin-rest-endpoint-methods": "^4.2.0",
